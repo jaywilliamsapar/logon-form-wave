@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: rgb(14, 14, 14);
   color: rgb(224, 120, 16);
   font-family: 'Muli', sans-serif;
   display: flex;
