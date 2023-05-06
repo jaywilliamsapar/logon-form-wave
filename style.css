@@ -6,7 +6,7 @@
 
 body {
   background-color: steelblue;
-  color: #fff;
+  color: rgb(224, 120, 16);
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
