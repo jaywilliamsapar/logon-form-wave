@@ -18,7 +18,8 @@ body {
 }
 
 h1 {
-    color: rgb(0, 17, 255);
+    color: rgb(17, 207, 207);
+    font-size: 1.2rem;
 }
 
 label {
