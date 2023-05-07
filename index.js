@@ -6,3 +6,11 @@ labels.forEach(label => {
         .map((letter, idx) => `<span style="transition-delay:${idx * 50}ms">${letter}</span>`)
         .join('')
 })
+
+
+const x = 5;
+const y = 7;
+
+const sum = x + y;
+
+console.log(sum)
